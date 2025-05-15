@@ -1,0 +1,16 @@
+# python packages
+numpy
+pandas
+ipykernel
+
+# llama
+langchain_ollama
+huggingface_hub
+transformers
+torch
+torchvision
+openpyxl
+
+# metadata
+datetime
+psutil
