@@ -1,7 +1,7 @@
 # Installing Software on HPC
 This repository was built for the "Installing Software on UConn Storrs HPC" which covers how to request interactive jobs on UConn Storrs High Performance Computing (HPC). Including how to get set up, make job requests, transfer files to and from your HPC account, and install software. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhH3Alengow?si=yLbsLA9urqYwKWFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+A YouTube video of the workshop can be found [here](https://www.youtube.com/embed/rhH3Alengow?si=yLbsLA9urqYwKWFx)
 
 ## Context and Pre-Requisites
 - Personal Device:
